@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
 ![Banner](https://github.com/sudhei02/sudhei02/blob/main/assets/banner-rain.gif)
+</p>
 
 <h1 align="center">Hi there 👋, I'm Sudenaz!</h1>
 <h3 align="center">🚀 AI & Computer Vision Enthusiast | 📊 Data Scientist | 💻 Full-stack Explorer</h3>
