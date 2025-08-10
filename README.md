@@ -1,4 +1,5 @@
 <!-- Profile Banner -->
+<p align="center">
 ![Banner](https://github.com/sudhei02/sudhei02/blob/main/assets/banner-rain.gif)
 
 <h1 align="center">Hi there 👋, I'm Sudenaz!</h1>
