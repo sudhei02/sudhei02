@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/banner.png)
+![Banner](https://github.com/sudhei02/sudhei02/blob/main/assets/banner.png)
 
 <h1 align="center">Hi there 👋, I'm Sudenaz!</h1>
 <h3 align="center">🚀 AI & Computer Vision Enthusiast | 📊 Data Scientist | 💻 Full-stack Explorer</h3>
@@ -27,23 +27,23 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhei02&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhei02&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- [🔍 Vehicle Brand Recognition](https://github.com/YOUR_USERNAME/vehicle-brand-recognition) – Deep learning model for car brand classification.
-- [📈 Probabilistic Contrastive Learning](https://github.com/YOUR_USERNAME/probabilistic-contrastive-learning) – Domain adaptation research for computer vision.
-- [💡 Cool Side Project](https://github.com/YOUR_USERNAME/some-project) – Fun tool you built for yourself or others.
+- [🔍 Vehicle Brand Recognition](https://github.com/sudhei02/vehicle-brand-recognition) – Deep learning model for car brand classification.
+- [📈 Probabilistic Contrastive Learning](https://github.com/sudhei02/probabilistic-contrastive-learning) – Domain adaptation research for computer vision.
+- [💡 Cool Side Project](https://github.com/sudhei02/some-project) – Fun tool you built for yourself or others.
 
 ---
 
@@ -58,5 +58,5 @@
 
 <!-- Visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
+  <img src="https://komarev.com/ghpvc/?username=sudhei02&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
 </p>
