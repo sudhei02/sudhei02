@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://github.com/sudhei02/sudhei02/blob/main/assets/animated-banner.gif)
+![Banner](https://github.com/sudhei02/sudhei02/blob/main/assets/banner.gif)
 
 <h1 align="center">Hi there 👋, I'm Sudenaz!</h1>
 <h3 align="center">🚀 AI & Computer Vision Enthusiast | 📊 Data Scientist | 💻 Full-stack Explorer</h3>
