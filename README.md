@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/sudhei02/sudhei02/blob/main/assets/banner-rain.gif" alt="Banner" width="100%" />
+  <img src="https://github.com/sudhei02/sudhei02/blob/main/assets/banner-rain.gif" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sudenaz!</h1>
