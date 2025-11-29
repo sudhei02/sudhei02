@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sudenaz!</h1>
-<h3 align="center">AI & Computer Vision Enthusiast | 📊 Data Scientist | 💻 Full-stack Explorer</h3>
+<h3 align="center">AI & Computer Vision Enthusiast | Data Scientist | Full-stack Explorer</h3>
 
 <!-- Typing animation -->
 <p align="center">
