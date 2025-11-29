@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sudenaz!</h1>
-<h3 align="center">🚀 AI & Computer Vision Enthusiast | 📊 Data Scientist | 💻 Full-stack Explorer</h3>
+<h3 align="center">AI & Computer Vision Enthusiast | 📊 Data Scientist | 💻 Full-stack Explorer</h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhei02&theme=tokyonight" alt="GitHub Streak" height="165"/>
@@ -35,21 +35,21 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## Achievements & Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sudhei02&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - [🔍 Vehicle Brand Recognition](https://github.com/sudhei02/vehicle-brand-recognition) – Deep learning model for car brand classification.
 - [📈 Probabilistic Contrastive Learning](https://github.com/sudhei02/probabilistic-contrastive-learning) – Domain adaptation research for computer vision.
 - [💡 Cool Side Project](https://github.com/sudhei02/some-project) – Fun tool you built for yourself or others.
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/fsudenazhelvaci"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:suydinh01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
