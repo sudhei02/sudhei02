@@ -43,9 +43,9 @@
 ---
 
 ## Featured Projects
-- [🔍 Vehicle Brand Recognition](https://github.com/sudhei02/vehicle-brand-recognition) – Deep learning model for car brand classification.
-- [📈 Probabilistic Contrastive Learning](https://github.com/sudhei02/probabilistic-contrastive-learning) – Domain adaptation research for computer vision.
-- [💡 Cool Side Project](https://github.com/sudhei02/some-project) – Fun tool you built for yourself or others.
+- [Vehicle Brand Recognition](https://github.com/sudhei02/vehicle-brand-recognition) – Deep learning model for car brand classification.
+- [Probabilistic Contrastive Learning](https://github.com/sudhei02/probabilistic-contrastive-learning) – Domain adaptation research for computer vision.
+- [Cool Side Project](https://github.com/sudhei02/some-project) – Fun tool you built for yourself or others.
 
 ---
 
