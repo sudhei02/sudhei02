@@ -1,64 +1,91 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/sudhei02/sudhei02/blob/main/assets/banner-bunny.jpeg" alt="Banner" />
-</p>
+# Hi, I’m Sudenaz 👋
 
-<h1 align="center">Hi there, I'm Sudenaz!</h1>
-<h3 align="center">AI & Computer Vision Enthusiast | Data Scientist | Full-stack Explorer</h3>
+I’m a Software Engineering student focused on building useful, clear, and human-centered digital products.
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFEF&center=true&vCenter=true&width=550&lines=Building+intelligent+vision+systems;Lifelong+learner+and+maker;Turning+ideas+into+reality" />
-  </a>
-</p>
+My work sits between **frontend development**, **UI/UX design**, and **applied software engineering**. I enjoy turning rough ideas into working products: designing the flow, building the interface, connecting the logic, and improving the experience until it feels smooth.
+
+Currently, I’m especially interested in:
+- Frontend development with React / JavaScript
+- UI/UX design, product flows, and Figma prototypes
+- Interactive web experiences with Three.js and WebXR
+- Real-world software projects where design and engineering meet
 
 ---
 
-## Tech Stack
+## What I’m building toward
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+I’m growing into a product-minded developer: someone who can understand user needs, design clean interfaces, and implement them with reliable code.
+
+I like projects where I can ask:
+
+> “What is the user trying to do, and how can we make that easier?”
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhei02&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+## Featured work
+
+### TaksiKibris — Award-Winning Graduation Project
+A Cyprus-focused ride-hailing platform connecting local taxis with passengers.
+
+**My focus:** UI/UX direction, product flow, mobile experience, and team collaboration  
+**Stack:** React Native, Node.js, Supabase, Mapbox, JWT, push notifications  
+**Highlights:** Passenger/driver flows, real-time GPS tracking, booking experience, team of 4
 
 ---
 
-## Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudhei02&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+### 3D Solar System with AR Support
+An interactive 3D solar system web app built during my TÜBİTAK Space Institute internship.
+
+**Stack:** Three.js, JavaScript, WebXR  
+**Highlights:** AR mode, mobile browser support, 55–60 fps rendering, optimized textures, WebXR hit testing
 
 ---
 
-## Featured Projects
-- [Vehicle Brand Recognition](https://github.com/sudhei02/vehicle-brand-recognition) – Deep learning model for car brand classification.
-- [Probabilistic Contrastive Learning](https://github.com/sudhei02/probabilistic-contrastive-learning) – Domain adaptation research for computer vision.
-- [Interactive AR Supporyed 3D Web-App ](https://github.com/sudhei02/some-project) – Solar system simulation with AR capabilities. 
+### Vehicle Brand Recognition
+A computer vision project focused on vehicle brand classification.
+
+**Stack:** Python, PyTorch, OpenCV, ResNet-50  
+**Highlights:** Fine-tuned a model on a 69K-image dataset and improved validation accuracy from 58% to 92%
 
 ---
 
-## Let's Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/fsudenazhelvaci"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:suydinh01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
-</p>
+## Tech I use
+
+**Frontend & UI**
+React · JavaScript · HTML · CSS · Three.js · WebXR · Figma
+
+**Software & Tools**
+Python · Node.js · SQL · Git · Linux · Java · C/C++
+
+**ML / Computer Vision**
+PyTorch · OpenCV · CNNs · Transfer Learning
 
 ---
 
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhei02&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
-</p>
+## How I work
+
+- I learn fast and like taking ownership.
+- I care about both how a product works and how it feels.
+- I like clean interfaces, clear project structure, and practical problem solving.
+- I’m comfortable working in teams, receiving feedback, and improving through iteration.
+
+---
+
+## Currently looking for
+
+I’m looking for an internship where I can contribute to real software projects, especially around:
+
+- Frontend development
+- UI/UX and product design
+- Web/mobile applications
+- Agile software teams
+
+Available from **July 2026**.
+
+---
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/fsudenazhelvaci
+- GitHub: github.com/sudhei02
+- Email: helvacisudenazf@gmail.com
