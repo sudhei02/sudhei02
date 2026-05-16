@@ -1,91 +1,168 @@
-# Hi, I’m Sudenaz 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=220&section=header&text=Sudenaz%20Helvaci&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=software%20engineer%20%E2%80%A2%20ML%20%E2%80%A2%203D%2FAR%20%E2%80%A2%20frontend&descAlignY=62&descSize=18" />
+</div>
 
-I’m a Software Engineering student focused on building useful, clear, and human-centered digital products.
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=building+things+that+actually+work+%F0%9F%9A%80;ML+pipelines+%E2%80%A2+WebXR+%E2%80%A2+React+%E2%80%A2+Three.js;Best+Graduation+Project+Award+%F0%9F%8F%86;keep+buildin'" alt="Typing SVG" />
+  </a>
+</div>
 
-My work sits between **frontend development**, **UI/UX design**, and **applied software engineering**. I enjoy turning rough ideas into working products: designing the flow, building the interface, connecting the logic, and improving the experience until it feels smooth.
+<br />
 
-Currently, I’m especially interested in:
-- Frontend development with React / JavaScript
-- UI/UX design, product flows, and Figma prototypes
-- Interactive web experiences with Three.js and WebXR
-- Real-world software projects where design and engineering meet
+<div align="center">
+  <a href="https://www.linkedin.com/in/fsudenazhelvaci">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sudenazhelvaci.com">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:helvacisudenazf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sudhei02&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+</div>
 
----
-
-## What I’m building toward
-
-I’m growing into a product-minded developer: someone who can understand user needs, design clean interfaces, and implement them with reliable code.
-
-I like projects where I can ask:
-
-> “What is the user trying to do, and how can we make that easier?”
-
----
-
-## Featured work
-
-### TaksiKibris — Award-Winning Graduation Project
-A Cyprus-focused ride-hailing platform connecting local taxis with passengers.
-
-**My focus:** UI/UX direction, product flow, mobile experience, and team collaboration  
-**Stack:** React Native, Node.js, Supabase, Mapbox, JWT, push notifications  
-**Highlights:** Passenger/driver flows, real-time GPS tracking, booking experience, team of 4
+<br />
 
 ---
 
-### 3D Solar System with AR Support
-An interactive 3D solar system web app built during my TÜBİTAK Space Institute internship.
+## 👩‍💻 About me
 
-**Stack:** Three.js, JavaScript, WebXR  
-**Highlights:** AR mode, mobile browser support, 55–60 fps rendering, optimized textures, WebXR hit testing
+Software engineering grad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can go from training a ResNet to building a live WebXR experience in the same week.
 
----
+I care about how products *feel*, not just how they function. I ask "what is the user trying to do, and how do we make that effortless?" at every step.
 
-### Vehicle Brand Recognition
-A computer vision project focused on vehicle brand classification.
-
-**Stack:** Python, PyTorch, OpenCV, ResNet-50  
-**Highlights:** Fine-tuned a model on a 69K-image dataset and improved validation accuracy from 58% to 92%
-
----
-
-## Tech I use
-
-**Frontend & UI**
-React · JavaScript · HTML · CSS · Three.js · WebXR · Figma
-
-**Software & Tools**
-Python · Node.js · SQL · Git · Linux · Java · C/C++
-
-**ML / Computer Vision**
-PyTorch · OpenCV · CNNs · Transfer Learning
+- 🎓 B.Eng. Software Engineering, EMU — graduating Jul 2026
+- 🏆 Best Graduation Project Award (TaksiKibris, EMU 2025)
+- 🎮 5th Place, Game Jam 5 — EMU 2025
+- 🛰️ Shipped a live 3D/AR solar system app @ TÜBİTAK Space Institute
+- 🤖 Improved vehicle brand recognition from **58% → 92%** @ Divit Technology
+- 📍 Istanbul / Famagusta
 
 ---
 
-## How I work
+## 🛠️ Tech stack
 
-- I learn fast and like taking ownership.
-- I care about both how a product works and how it feels.
-- I like clean interfaces, clear project structure, and practical problem solving.
-- I’m comfortable working in teams, receiving feedback, and improving through iteration.
+**Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+**Also work with**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
-## Currently looking for
+## 🚀 Featured projects
 
-I’m looking for an internship where I can contribute to real software projects, especially around:
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- Frontend development
-- UI/UX and product design
-- Web/mobile applications
-- Agile software teams
+### 🚕 TaksiKibris
+**🏆 Best Graduation Project — EMU 2025**
 
-Available from **July 2026**.
+Cyprus-focused ride-hailing platform. Full stack: passenger + driver mobile apps, real-time GPS tracking, booking flow, push notifications.
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+
+[![View org](https://img.shields.io/badge/View%20org-181717?style=flat-square&logo=github)](https://github.com/taksikibris)
+
+</td>
+<td valign="top" width="50%">
+
+### 🪐 3D Solar System + AR
+**TÜBİTAK Space Institute — live in production**
+
+Interactive 3D solar system with WebXR AR support. 55–60 fps on mobile, NASA textures, custom Saturn ring geometry, WebXR hit-test surface detection.
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR-4A90D9?style=flat-square&logo=webgl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![View repo](https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github)](https://github.com/sudhei02/3D-solar-system-with-AR-support)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🚗 Vehicle Brand Recognition
+**Divit Technology — internship**
+
+Fine-tuned ResNet-50 on 69K images across 55 classes. Jumped validation accuracy from 58% to **92.22%** (+34pp) through systematic architecture comparison, augmentation, and LR scheduling.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 📚 SmartEd
+**Adaptive K–12 Learning Platform**
+
+Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices to model individual student mastery states and personalise learning paths.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect
+## 📊 GitHub stats
 
-- LinkedIn: www.linkedin.com/in/fsudenazhelvaci
-- GitHub: github.com/sudhei02
-- Email: helvacisudenazf@gmail.com
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhei02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sudhei02&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+</div>
+
+---
+
+## 🏅 Certifications & awards
+
+| | |
+|---|---|
+| 🏆 Best Graduation Project — EMU (2025) | 🎮 5th Place, Game Jam 5 — EMU (2025) |
+| 🧠 Introduction to Deep Learning — DataCamp (2024) | 🗄️ Intermediate SQL — DataCamp (2024) |
+
+---
+
+<div align="center">
+  <i>Available for full-time roles from <b>July 2026</b> — open to frontend, ML, or full-stack positions.</i>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/fsudenazhelvaci">
+    <img src="https://img.shields.io/badge/Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=100&section=footer" />
+</div>
