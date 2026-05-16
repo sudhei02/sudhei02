@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=building+things+that+actually+work+%F0%9F%9A%80;ML+pipelines+%E2%80%A2+WebXR+%E2%80%A2+React+%E2%80%A2+Three.js;Best+Graduation+Project+Award+%F0%9F%8F%86;keep+buildin'" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=building+things+that+actually+work+%F0%9F%9A%80;ML+%E2%80%A2+WebXR+%E2%80%A2+React+%E2%80%A2+Three.js+%E2%80%A2+GenAI;award-winning+graduation+project+%F0%9F%8F%86;short+film+director+turned+software+engineer+%F0%9F%8E%AC;keep+buildin'" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,15 +29,17 @@
 
 ## 👩‍💻 About me
 
-Software engineering grad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can go from training a ResNet to building a live WebXR experience in the same week.
+Software engineering grad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can go from training a ResNet to building a live WebXR experience in the same week. Lately, generative AI has been taking up a lot of my headspace.
 
-I care about how products *feel*, not just how they function. I ask "what is the user trying to do, and how do we make that effortless?" at every step.
+I care about how products *feel*, not just how they function. I ask "what is the user trying to do, and how do we make that effortless?" at every step. Also, I used to make short films. Turns out storytelling and product thinking aren't that different.
 
 - 🎓 B.Eng. Software Engineering, EMU — graduating Jul 2026
 - 🏆 Best Graduation Project Award (TaksiKibris, EMU 2025)
-- 🎮 5th Place, Game Jam 5 — EMU 2025
+- 🥇 Best Software Project, 25-26 Fall — EMU
+- 🎮 5th Place Game Jam 5 + 4th Place Spring Fest Game Jam — EMU
 - 🛰️ Shipped a live 3D/AR solar system app @ TÜBİTAK Space Institute
 - 🤖 Improved vehicle brand recognition from **58% → 92%** @ Divit Technology
+- 🎬 Short film competition winner (Genç Çınarlar 2015 + 2016)
 - 📍 Istanbul / Famagusta
 
 ---
@@ -131,7 +133,16 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 ---
 
-## 📊 GitHub stats
+## 💼 Experience timeline
+
+| Period | Role | Where |
+|--------|------|--------|
+| Aug–Sep 2025 | Software Engineering Intern | TÜBİTAK Space Institute |
+| Jul–Aug 2025 | Software Development Intern | Divit Technology |
+| Nov 2024–Jul 2025 | Trainee (Game & App Dev) | Oyun ve Uygulama Akademisi |
+| Mar 2025–present | Student Assistant — IT Support | Eastern Mediterranean University |
+
+---
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
@@ -148,8 +159,11 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 | | |
 |---|---|
-| 🏆 Best Graduation Project — EMU (2025) | 🎮 5th Place, Game Jam 5 — EMU (2025) |
+| 🏆 Best Graduation Project — EMU (2025) | 🥇 Best Software Project, 25-26 Fall — EMU |
+| 🎮 5th Place, Game Jam 5 — EMU (2025) | 🎮 4th Place, Spring Fest Game Jam — EMU |
+| 🎬 3rd Place, Genç Çınarlar Short Film (2016) | 🎬 Jury's Selection, Genç Çınarlar Short Film (2015) |
 | 🧠 Introduction to Deep Learning — DataCamp (2024) | 🗄️ Intermediate SQL — DataCamp (2024) |
+| 🏅 IDEATHON Participation Certificate | |
 
 ---
 
