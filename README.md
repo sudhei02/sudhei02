@@ -33,13 +33,12 @@ Software engineering grad from Eastern Mediterranean University, Cyprus. My work
 
 I care about how products *feel*, not just how they function. I ask "what is the user trying to do, and how do we make that effortless?" at every step. Also, I used to make short films. Turns out storytelling and product thinking aren't that different.
 
-- 🎓 B.Eng. Software Engineering, EMU — graduating Jul 2026
-- 🏆 Best Graduation Project Award (TaksiKibris, EMU 2025)
-- 🥇 Best Software Project, 25-26 Fall — EMU
-- 🎮 5th Place Game Jam 5 + 4th Place Spring Fest Game Jam — EMU
-- 🛰️ Shipped a live 3D/AR solar system app @ TÜBİTAK Space Institute
-- 🤖 Improved vehicle brand recognition from **58% → 92%** @ Divit Technology
-- 🎬 Short film competition winner (Genç Çınarlar 2015 + 2016)
+- B.Eng. Software Engineering, EMU — graduating Jul 2026
+- Best Graduation Project Award (TaksiKibris, EMU 2025)
+- Best Software Project, 25-26 Fall — EMU
+- 5th Place Game Jam 5 + 4th Place Spring Fest Game Jam — EMU
+- Shipped a live 3D/AR solar system app @ TÜBİTAK Space Institute
+- Improved vehicle brand recognition from **58% → 92%** @ Divit Technology
 - 📍 Istanbul / Famagusta
 
 ---
@@ -159,10 +158,10 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 | | |
 |---|---|
-| Best Software Graduation Project, 25-26 Fall — EMU |
-| 5th Place, Game Jam 5 — EMU (2025) | 🎮 4th Place, Spring Fest Game Jam — EMU | 
-| Introduction to Deep Learning — DataCamp (2024) | Intermediate SQL — DataCamp (2024) |
-| IDEATHON Participation Certificate | 
+| Best Software Graduation Project, 25-26 Fall — EMU | 🎮 4th Place, Spring Fest Game Jam — EMU |
+| 5th Place, Game Jam 5 — EMU (2025) | Intermediate SQL — DataCamp (2024) |
+| Introduction to Deep Learning — DataCamp (2024) | IDEATHON Participation Certificate |
+ 
 
 ---
 
