@@ -27,7 +27,7 @@
 
 ---
 
-## 👩‍💻 About me
+## About me
 
 Software engineering grad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can go from training a ResNet to building a live WebXR experience in the same week. Lately, generative AI has been taking up a lot of my headspace.
 
@@ -44,7 +44,7 @@ I care about how products *feel*, not just how they function. I ask "what is the
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Core**
 
@@ -70,14 +70,14 @@ I care about how products *feel*, not just how they function. I ask "what is the
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🚕 TaksiKibris
-**🏆 Best Graduation Project — EMU 2025**
+### TaksiKibris
+**Best Graduation Project — EMU 2025**
 
 Cyprus-focused ride-hailing platform. Full stack: passenger + driver mobile apps, real-time GPS tracking, booking flow, push notifications.
 
@@ -91,7 +91,7 @@ Cyprus-focused ride-hailing platform. Full stack: passenger + driver mobile apps
 </td>
 <td valign="top" width="50%">
 
-### 🪐 3D Solar System + AR
+### 3D Solar System + AR
 **TÜBİTAK Space Institute — live in production**
 
 Interactive 3D solar system with WebXR AR support. 55–60 fps on mobile, NASA textures, custom Saturn ring geometry, WebXR hit-test surface detection.
@@ -107,7 +107,7 @@ Interactive 3D solar system with WebXR AR support. 55–60 fps on mobile, NASA t
 <tr>
 <td valign="top" width="50%">
 
-### 🚗 Vehicle Brand Recognition
+### Vehicle Brand Recognition
 **Divit Technology — internship**
 
 Fine-tuned ResNet-50 on 69K images across 55 classes. Jumped validation accuracy from 58% to **92.22%** (+34pp) through systematic architecture comparison, augmentation, and LR scheduling.
@@ -119,7 +119,7 @@ Fine-tuned ResNet-50 on 69K images across 55 classes. Jumped validation accuracy
 </td>
 <td valign="top" width="50%">
 
-### 📚 SmartEd
+### SmartEd
 **Adaptive K–12 Learning Platform**
 
 Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices to model individual student mastery states and personalise learning paths.
@@ -133,7 +133,7 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 ---
 
-## 💼 Experience timeline
+## Experience timeline
 
 | Period | Role | Where |
 |--------|------|--------|
@@ -155,15 +155,14 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 ---
 
-## 🏅 Certifications & awards
+## Certifications & awards
 
 | | |
 |---|---|
-| 🏆 Best Graduation Project — EMU (2025) | 🥇 Best Software Project, 25-26 Fall — EMU |
-| 🎮 5th Place, Game Jam 5 — EMU (2025) | 🎮 4th Place, Spring Fest Game Jam — EMU |
-| 🎬 3rd Place, Genç Çınarlar Short Film (2016) | 🎬 Jury's Selection, Genç Çınarlar Short Film (2015) |
-| 🧠 Introduction to Deep Learning — DataCamp (2024) | 🗄️ Intermediate SQL — DataCamp (2024) |
-| 🏅 IDEATHON Participation Certificate | |
+| Best Software Graduation Project, 25-26 Fall — EMU |
+| 5th Place, Game Jam 5 — EMU (2025) | 🎮 4th Place, Spring Fest Game Jam — EMU | 
+| Introduction to Deep Learning — DataCamp (2024) | Intermediate SQL — DataCamp (2024) |
+| IDEATHON Participation Certificate | 
 
 ---
 
