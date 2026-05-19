@@ -29,16 +29,10 @@
 
 ## About me
 
-Software engineering grad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can go from training a ResNet to building a live WebXR experience in the same week. Lately, generative AI has been taking up a lot of my headspace.
+Software engineering undergrad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can go from training a ResNet to building a live WebXR experience in the same month. Lately, generative AI has been taking up a lot of my headspace.
 
 I care about how products *feel*, not just how they function. I ask "what is the user trying to do, and how do we make that effortless?" at every step. Also, I used to make short films. Turns out storytelling and product thinking aren't that different.
 
-- B.Eng. Software Engineering, EMU — graduating Jul 2026
-- Best Graduation Project Award (TaksiKibris, EMU 2025)
-- Best Software Project, 25-26 Fall — EMU
-- 5th Place Game Jam 5 + 4th Place Spring Fest Game Jam — EMU
-- Shipped a live 3D/AR solar system app @ TÜBİTAK Space Institute
-- Improved vehicle brand recognition from **58% → 92%** @ Divit Technology
 - 📍 Istanbul / Famagusta
 
 ---
