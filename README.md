@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=220&section=header&text=Sudenaz%20Helvaci&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=software%20engineer%20%E2%80%A2%20ML%20%E2%80%A2%203D%2FAR%20%E2%80%A2%20frontend&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=220&section=header&text=Sudenaz%20Helvaci&fontSize=52&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=building+things+that+actually+work+%F0%9F%9A%80;ML+%E2%80%A2+WebXR+%E2%80%A2+React+%E2%80%A2+Three.js+%E2%80%A2+GenAI;award-winning+graduation+project+%F0%9F%8F%86;short+film+director+turned+software+engineer+%F0%9F%8E%AC;keep+buildin'" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=ML+Engineer+%7C+Computer+Vision+%7C+WebXR+%7C+Interactive+Systems" />
   </a>
 </div>
 
@@ -29,9 +29,7 @@
 
 ## About me
 
-Software engineering undergrad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can go from training a ResNet to building a live WebXR experience in the same month. Lately, generative AI has been taking up a lot of my headspace.
-
-I care about how products *feel*, not just how they function. I ask "what is the user trying to do, and how do we make that effortless?" at every step. Also, I used to make short films. Turns out storytelling and product thinking aren't that different.
+Software engineering undergrad from Eastern Mediterranean University, Cyprus. My work sits at the intersection of ML, interactive 3D/AR, and product-focused frontend — the kind of stack where you can prototype wild ideas, but also ship things that don't break. I care about how products *feel*, not just how they function. I ask "what is the user trying to do, and how do we make that effortless?" at every step. Also, I used to make short films. Turns out storytelling makes you a better engineer.
 
 - 📍 Istanbul / Famagusta
 
@@ -138,7 +136,7 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhei02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
 </div>
 
@@ -172,3 +170,4 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=100&section=footer" />
 </div>
+
