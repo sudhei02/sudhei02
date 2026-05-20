@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=ML+Engineer+%7C+Computer+Vision+%7C+WebXR+%7C+Interactive+Systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=building+things+that+actually+work+%F0%9F%9A%80;ML+%E2%80%A2+3D%2FAR+%E2%80%A2+frontend;storytelling+for+better+UX" />
   </a>
 </div>
 
