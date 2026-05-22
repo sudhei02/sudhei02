@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=220&section=header&text=Sudenaz%20Helvaci&fontSize=52&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=220&section=header&text=Sudenaz%20Helvaci&fontSize=52&fontColor=ffffff&animation=twinlking" />
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@ Software engineering undergrad from Eastern Mediterranean University, Cyprus. My
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -136,12 +136,12 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudhei02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhei02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudenazfh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudenazfh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudhei02&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img src="https://streak-stats.demolab.com/?user=sudenazfh&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
 
 ---
@@ -153,7 +153,6 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 | Best Software Graduation Project, 25-26 Fall — EMU | 🎮 4th Place, Spring Fest Game Jam — EMU |
 | 5th Place, Game Jam 5 — EMU (2025) | Intermediate SQL — DataCamp (2024) |
 | Introduction to Deep Learning — DataCamp (2024) | IDEATHON Participation Certificate |
- 
 
 ---
 
