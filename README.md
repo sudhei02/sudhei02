@@ -135,10 +135,6 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 ---
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudenazfh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudenazfh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sudenazfh&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
@@ -150,7 +146,7 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 | | |
 |---|---|
-| Best Software Graduation Project, 25-26 Fall — EMU | 🎮 4th Place, Spring Fest Game Jam — EMU |
+| Best Software Graduation Project, 25-26 Fall — EMU | 4th Place, Spring Fest Game Jam — EMU |
 | 5th Place, Game Jam 5 — EMU (2025) | Intermediate SQL — DataCamp (2024) |
 | Introduction to Deep Learning — DataCamp (2024) | IDEATHON Participation Certificate |
 
