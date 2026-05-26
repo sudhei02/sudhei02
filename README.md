@@ -117,8 +117,8 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-[![](https://img.shields.io/badge/-View%20designs-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/GMowuiUPThCSV0td0iILVQ/Wireframes-AI-Ed-App?node-id=21-500&t=hi9WJz7f3H4suiLA-1)
-</td>
+[![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) View designs](https://www.figma.com/design/GMowuiUPThCSV0td0iILVQ/Wireframes-AI-Ed-App?node-id=21-500&t=hi9WJz7f3H4suiLA-1)
+td>
 </tr>
 </table>
 
