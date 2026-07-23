@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=building+things+that+actually+work+%F0%9F%9A%80;ML+%E2%80%A2+3D%2FAR+%E2%80%A2+frontend;storytelling+for+better+UX" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=building+things+that+actually+work+%F0%9F%9A%80;ML+%E2%80%A2+3D%2FAR+%E2%80%A2+frontend;storytelling+for+better+product" />
   </a>
 </div>
 
@@ -70,7 +70,7 @@ Software engineering undergrad from Eastern Mediterranean University, Cyprus. My
 ### TaksiKibris
 **Best Graduation Project — EMU 2025**
 
-Cyprus-focused ride-hailing platform. Full stack: passenger + driver mobile apps, real-time GPS tracking, booking flow, push notifications.
+Cyprus-focused ride-hailing platform. Front-end: passenger + driver mobile apps, real-time GPS tracking, booking flow, push notifications.
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -143,18 +143,8 @@ Backend + ML integration: Bayesian Knowledge Tracking with MongoDB microservices
 
 ---
 
-## Certifications & awards
-
-| | |
-|---|---|
-| Best Software Graduation Project, 25-26 Fall — EMU | 4th Place, Spring Fest Game Jam — EMU |
-| 5th Place, Game Jam 5 — EMU (2025) | Intermediate SQL — DataCamp (2024) |
-| Introduction to Deep Learning — DataCamp (2024) | IDEATHON Participation Certificate |
-
----
-
 <div align="center">
-  <i>Available for full-time roles from <b>July 2026</b> — open to frontend, ML, or full-stack positions.</i>
+  <i>Available for full-time roles from <b>July 2026</b> — open to frontend, ML, or Computer Vision roles.</i>
   <br /><br />
   <a href="https://www.linkedin.com/in/fsudenazhelvaci">
     <img src="https://img.shields.io/badge/Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
